@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 by b1
+=======
+by b2
+>>>>>>> b2
+solved b1 b2
