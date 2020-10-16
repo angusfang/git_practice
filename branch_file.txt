@@ -1,3 +1,8 @@
 add some text in file and now is in branch
 branch make this change in version4.5
+<<<<<<< HEAD
 be maked by version5,master
+=======
+this is maked in version5,branch
+>>>>>>> branch
+solved conflict
